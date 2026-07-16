@@ -52,11 +52,11 @@
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafaelbandoch&show_icons=true&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafaelbandoch&show_icons=true&theme=nord&hide_border=true"
   />
   <img
     height="165"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafaelbandoch&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafaelbandoch&layout=compact&theme=nord&hide_border=true"
   />
 </p>
 
