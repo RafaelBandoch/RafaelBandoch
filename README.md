@@ -73,11 +73,11 @@
 ## 🌎 Onde me encontrar
 
 <p>
-<a href="https://linkedin.com/in/SEU-LINK">
+<a href="https://linkedin.com/in/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:SEUEMAIL">
+<a href="mailto:rafaelbandoch7@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
