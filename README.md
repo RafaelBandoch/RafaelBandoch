@@ -1,16 +1,92 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**RafaelBandoch/RafaelBandoch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou Rafael Bandoch
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full+Stack+Developer;Laravel+%7C+Angular+%7C+PHP;Always+learning+new+technologies." />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🚀 Sobre mim
+
+🎓 Estudante de **Engenharia de Software**
+
+💻 Desenvolvedor Full Stack com foco em aplicações web.
+
+🛠️ Trabalho com desenvolvimento de novas funcionalidades, manutenção de sistemas, integrações entre plataformas e resolução de problemas.
+
+📚 Atualmente aprofundando meus conhecimentos em Arquitetura de Software, Design Patterns e Clean Code.
+
+---
+
+## 💻 Tecnologias
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind" />
+</p>
+
+### Banco de Dados
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
+</p>
+
+---
+
+## 📊 GitHub
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafaelbandoch&show_icons=true&theme=github_dark&hide_border=true"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafaelbandoch&layout=compact&theme=github_dark&hide_border=true"
+  />
+</p>
+
+
+
+## Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rafaelbandoch/rafaelbandoch/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 🌎 Onde me encontrar
+
+<p>
+<a href="https://linkedin.com/in/SEU-LINK">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:SEUEMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=rafaelbandoch&style=for-the-badge)
+
+</div>
