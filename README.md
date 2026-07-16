@@ -73,7 +73,7 @@
 ## 🌎 Onde me encontrar
 
 <p>
-<a href="https://linkedin.com/in/">
+<a href="https://www.linkedin.com/in/rafael-bandoch-38604a269">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
