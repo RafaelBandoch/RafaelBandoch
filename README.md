@@ -48,28 +48,6 @@
 
 ---
 
-## 📊 GitHub
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafaelbandoch&show_icons=true&theme=nord&hide_border=true"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafaelbandoch&layout=compact&theme=nord&hide_border=true"
-  />
-</p>
-
-
-
-## Contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rafaelbandoch/rafaelbandoch/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
 ## 🌎 Onde me encontrar
 
 <p>
